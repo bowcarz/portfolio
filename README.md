@@ -27,6 +27,5 @@ My name is Bartosz Owcarz. I have an engineer degree specializing in web applica
 * Testowanie oprogramowania
 
 # My projects
-* Testing the Yerba Mate mobile application
-* 
+* Testing the Yerba Mate, mobile application
 
